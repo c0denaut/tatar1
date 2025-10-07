@@ -1,2 +1,4 @@
 This is second main file
 Изменение из ветки conflict-branch
+Изменение из ветки main
+
