@@ -3,3 +3,4 @@ This is second main file
 Изменение из ветки main
 
 Это изменение из ветки conflict-two
+Изменение из нового мейника
